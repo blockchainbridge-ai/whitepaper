@@ -20,6 +20,26 @@
 
 > This edition contains the written content of the website’s Purpose, Allocations and About tabs. Expandable text is included in full. References to the “Allocations tab” refer to the Allocations section below.
 
+### BCB token addresses
+
+**Stellar · public network** — Asset code: **BCB**. Issuer:
+
+```text
+GD7P2H4MSVW3V6L34YFX7YZBIMWAOSSZVXELJANBPKMDRO34DYV37BCB
+```
+
+[Stellar token details](https://blockchainbridge.ai/bcb-token/?chain=stellar) · [View issuer on Stellar Expert](https://stellar.expert/explorer/public/account/GD7P2H4MSVW3V6L34YFX7YZBIMWAOSSZVXELJANBPKMDRO34DYV37BCB)
+
+**Solana · mainnet-beta** — Symbol: **BCB**. Decimals: **6**. Mint:
+
+```text
+83UM5JRaxhWmmgCMH5h6qmono47PvwK6iTEfbV7p5Dgt
+```
+
+[Solana token details](https://blockchainbridge.ai/bcb-token/?chain=solana) · [View mint on Solscan](https://solscan.io/token/83UM5JRaxhWmmgCMH5h6qmono47PvwK6iTEfbV7p5Dgt)
+
+> Publishing token details is not a market launch announcement. Market availability will be announced separately for each chain.
+
 ### Inside the White Paper
 
 - [A Simple Token. A Meaningful Purpose.](#chapter-0)
